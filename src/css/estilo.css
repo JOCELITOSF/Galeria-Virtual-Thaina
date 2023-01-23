@@ -29,14 +29,14 @@ body {
 }
 
 #logo {
-    max-height: 400px;
+    max-height: 500px;
     display: flex;
-    justify-content: center;
+    justify-content: left;
 
 }
 
 #logoThaina {
-    width: 600px;
+    width: 900px;
     
 }
 
@@ -50,7 +50,7 @@ body {
 
 .vitrine-virtual .aquarela-grande{
     max-width: 500px;
-    max-height: 400px;
+    max-height: 500px;
     width: 500px;
     height: 400px;
     position: relative;    
